@@ -1,0 +1,105 @@
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+
+.page {
+max-width: 100%;
+min-height: 100vh;
+margin: 0 auto;
+background: #2A2C2F;
+position: relative;
+padding: 30px 1.5em;
+}
+
+.logo {
+width: 254px;
+height: 66px;
+margin: 0 auto;
+display: block;
+}
+
+.lead {
+margin-top: 90px;
+text-align: center;
+}
+
+.lead__title {
+font-family: 'Inter', sans-serif;
+font-weight: 900;
+font-size: 75px;
+line-height: 79px;
+color: #FFFFFF;
+max-width: 530px;
+margin: 0 auto;
+padding: 0 20px;
+}
+
+.lead__subtitle {
+font-family: 'Inter', sans-serif;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+color: #FFFFFF;
+max-width: 720px;
+margin: 25px auto 0;
+}
+    
+.lead__image {
+width: 100%;
+height: 480px;
+object-fit: cover;
+margin-top: 40px;
+filter: grayscale(100%);
+}
+
+.intro {
+max-width: 720px;
+margin: 90px auto 0;
+}
+
+.intro__title {
+font-family: 'Inter', sans-serif;
+font-weight: 900;
+font-size: 45px;
+line-height: 49px;
+color: #FFFFFF;
+margin-bottom: 40px;
+}
+
+.intro__text {
+font-family: 'Inter', sans-serif;
+font-weight: 400;
+font-size: 1.5rem;
+line-height: 34px;
+color: #FFFFFF;
+margin-bottom: 30px;
+}
+
+.intro__text-quote {
+font-family: 'Inter', sans-serif;
+font-weight: 400;
+font-size: 1.5rem;
+line-height: 34px;
+color: #FFFFFF;
+text-align: right;
+margin-bottom: 32px;
+}
+
+.intro__text-down {
+font-family: 'Inter', sans-serif;
+font-weight: 400;
+font-size: 1em;
+line-height: 163%;
+color: #FFFFFF;
+}
+
+.footer {
+text-align: center;
+padding: 1.5rem 0;
+margin-top: 60px;
+color: white;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 1rem;
+}
+}
