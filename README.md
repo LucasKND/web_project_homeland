@@ -36,6 +36,11 @@ web_project_homeland/
 ├── index.html
 └── README.md
 
+
+## Github Page:
+
+- https://lucasknd.github.io/web_project_homeland/
+
 ## Autor:
 
 Lucas Veroneze x TripleTen
