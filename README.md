@@ -22,13 +22,15 @@ web_project_homeland/
 ├── styles/
 │    └── style.css
 │
-├─── images/
+├── pages
+│    └── index.css
+│
+├── images/
 │    ├──imagem.png
 │    └──logo.png
 │
 ├── vendor/
-│   ├── fonts/
-│   │    └── fonts.css
+│   ├── fonts.css
 │   └── normalize.css
 │
 ├──.gitignore
