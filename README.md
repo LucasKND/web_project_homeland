@@ -6,19 +6,21 @@
 
 - Flexblox
 - Layout responsivo 
+- Layout grid
 - Fontes Google Fonts
 
 ## Estrutura de arquivos:
 
 web_project_homeland/
 ├── blocks/
-│   ├── 320px/
-│   │   └── 320.css
-│   ├── 768px/
-│   │   └── 768.css
-│   └── 1280px/
-│       └── 1280.css
-│
+│   ├── footer.css 
+│   ├── header.css  
+│   ├── intro.css
+│   ├── lead.css   
+│   ├── page.css 
+│   ├── photo-grid  
+│   └── place.css  
+│   
 ├── styles/
 │    └── style.css
 │
@@ -26,8 +28,21 @@ web_project_homeland/
 │    └── index.css
 │
 ├── images/
-│    ├──imagem.png
-│    └──logo.png
+│    ├── imagem.png
+│    ├── logo.png
+│    ├── AMAN.jpg
+│    ├── berea.png 
+│    ├── burundi.png   
+│    ├── Gales.png 
+│    ├── item0.png 
+│    ├── item1.png  
+│    ├── item2.png
+│    ├── item3.png
+│    ├── item4.png
+│    ├── item5.png
+│    ├── item6.png
+│    └── item7.png
+│
 │
 ├── vendor/
 │   ├── fonts.css
