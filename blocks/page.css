@@ -1,0 +1,12 @@
+@media screen and (min-width: 1280px){
+
+.page {
+    max-width: 100%;
+    min-height: 100vh;
+    background: #2A2C2F;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 34px 0;
+    }
+}

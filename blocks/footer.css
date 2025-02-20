@@ -1,0 +1,13 @@
+@media screen and (min-width: 1280px) {
+    .footer {
+        width: 100%;
+        max-width: 166px;
+        font-family: 'Inter', sans-serif;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 1rem;
+        text-align: center;
+        color: #FFFFFF;
+        margin-top: 92px;
+    }
+}
